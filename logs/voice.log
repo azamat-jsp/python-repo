@@ -1,0 +1,9 @@
+INFO:root:{'date': '08/31/20', 'time': '19:14:00', 'uuid': 'd5b4833eeb8b11eaa26dbc773785a05c', 'duration': 2.996, 'dbSet': True, 'ckeckAO': 1, 'checkWord': 1, 'phone': '43434'}
+ERROR:root:name 'db_connessct' is not defined
+INFO:root:{'date': '08/31/20', 'time': '19:14:25', 'uuid': 'e4ce175eeb8b11eaa26dbc773785a05c', 'duration': 4.216, 'dbSet': False, 'ckeckAO': 1, 'checkWord': 1, 'phone': '33434'}
+INFO:root:{'date': '08/31/20', 'time': '19:14:59', 'uuid': 'f8b7567ceb8b11eaa26dbc773785a05c', 'duration': 4.216, 'dbSet': True, 'ckeckAO': 1, 'checkWord': 1, 'phone': '34343'}
+INFO:root:{'date': '08/31/20', 'time': '19:19:37', 'uuid': '9e7928a6eb8c11eaa26dbc773785a05c', 'duration': 4.216, 'dbSet': True, 'ckeckAO': 1, 'checkWord': 1, 'phone': '34343'}
+INFO:root:{'date': '08/31/20', 'time': '19:20:10', 'uuid': 'b1db9442eb8c11eaa26dbc773785a05c', 'duration': 2.996, 'dbSet': True, 'ckeckAO': 1, 'checkWord': 1, 'phone': '23434'}
+INFO:root:{'date': '08/31/20', 'time': '19:20:33', 'uuid': 'bf92d514eb8c11eaa26dbc773785a05c', 'duration': 5.466, 'dbSet': True, 'ckeckAO': 0.2, 'checkWord': 1, 'phone': '4545'}
+INFO:root:{'date': '08/31/20', 'time': '19:20:56', 'uuid': 'cd985530eb8c11eaa26dbc773785a05c', 'duration': 3.70425, 'dbSet': True, 'ckeckAO': 1, 'checkWord': 0.2, 'phone': '3434'}
+INFO:root:{'date': '08/31/20', 'time': '19:21:09', 'uuid': 'd578893ceb8c11eaa26dbc773785a05c', 'duration': 3.70425, 'dbSet': True, 'ckeckAO': 1, 'checkWord': 0.2, 'phone': '34343'}
